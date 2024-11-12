@@ -1,0 +1,33 @@
+﻿@page
+@model QuestionDetailModel
+@{
+ViewData["Title"] = "Question Detail";
+}
+
+<h1>Question Detail</h1>
+
+<!-- Display the fixed question image -->
+<h2>Question Image:</h2>
+<img src="@Model.QuestionImagePath" alt="Question Image" style="max-width: 100%; height: auto;" />
+
+@if (!string.IsNullOrEmpty(Model.ImagePath))
+{
+<h2>Your Uploaded Answer Image:</h2>
+<img src="@Model.ImagePath" alt="Uploaded Answer Image" style="max-width: 100%; height: auto;" />
+}
+
+<form method="post" enctype="multipart/form-data">
+    <input type="file" name="answerImage" accept="image/*" required />
+    <input type="hidden" name="boxId" value="@Request.Query["boxId"]" />
+    <input type="hidden" name="questionId" value="@Request.Query["questionId"]" />
+    <button type="submit">Upload Answer Image</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.ImagePath))
+{
+<form method="post" asp-page-handler="Delete">
+    <input type="hidden" name="boxId" value="@Request.Query["boxId"]" />
+    <input type="hidden" name="questionId" value="@Request.Query["questionId"]" />
+    <button type="submit">Delete Uploaded Answer Image</button>
+</form>
+}

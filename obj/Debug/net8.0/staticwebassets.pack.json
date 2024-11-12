@@ -1,0 +1,801 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Trail2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Trail2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box10\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box10\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\answer_11_0.jpg",
+      "PackagePath": "staticwebassets\\images\\box11\\answer_11_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\answer_11_2.jpg",
+      "PackagePath": "staticwebassets\\images\\box11\\answer_11_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box11\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box11\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box12\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box12\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box13\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box13\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\answer_1_0.jpg",
+      "PackagePath": "staticwebassets\\images\\box1\\answer_1_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\answer_1_1.jpg",
+      "PackagePath": "staticwebassets\\images\\box1\\answer_1_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box1\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box1\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box2\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box2\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box3\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box3\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box4\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box4\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box5\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box5\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box6\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box6\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box7\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box7\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box8\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box8\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question1.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question1.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question10.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question10.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question2.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question2.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question3.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question3.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question4.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question4.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question5.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question5.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question6.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question6.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question7.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question7.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question8.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question8.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\images\\box9\\question9.png",
+      "PackagePath": "staticwebassets\\images\\box9\\question9.png"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\harsh\\RiderProjects\\Trail2\\Trail2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Trail2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Trail2.props",
+      "PackagePath": "build\\Trail2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Trail2.props",
+      "PackagePath": "buildMultiTargeting\\Trail2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Trail2.props",
+      "PackagePath": "buildTransitive\\Trail2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

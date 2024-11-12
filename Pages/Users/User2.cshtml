@@ -1,0 +1,17 @@
+﻿@page
+@model User2Model
+@{
+    ViewData["Title"] = "User2 Profile";
+}
+
+<h1>Statastics</h1>
+<h2>                                </h2>
+
+@for (int i = 0; i < Model.Questions.Count; i++)
+{
+    // Replace "2" with the appropriate box ID for your questions if needed.
+    <a class="question-box" asp-page="/QuestionDetailsProb/QuestionDetail" asp-route-boxId="2" asp-route-questionId="@i">
+        <span class="question-number">@((i + 1).ToString())</span>
+        <p class="question-text">@Model.Questions[i]</p>
+    </a>
+}

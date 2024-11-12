@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Trail2
+build_property.RootNamespace = Trail2
+build_property.ProjectDir = C:\Users\harsh\RiderProjects\Trail2\Trail2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\harsh\RiderProjects\Trail2\Trail2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/QuestionDetailsProb/QuestionDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUXVlc3Rpb25EZXRhaWxzUHJvYlxRdWVzdGlvbkRldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Shared/LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXExvZ2luTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Shared/SignupLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFNpZ251cExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjExLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User12.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjEyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User13.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjEzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Users/User9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlcjkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/harsh/RiderProjects/Trail2/Trail2/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pmbkxmb7mu

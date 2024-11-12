@@ -1,0 +1,46 @@
+﻿@page
+@model Trail2.Pages.Index
+@{
+ViewData["Title"] = "Login";
+Layout = "~/Pages/Shared/LoginLayout.cshtml";
+}
+
+<h2>Login</h2>
+
+<form method="post">
+    <div>
+        <label asp-for="Input.Username"></label>
+        <input asp-for="Input.Username" class="form-control" required />
+        <span asp-validation-for="Input.Username" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Input.Password"></label>
+        <input asp-for="Input.Password" type="password" class="form-control" required />
+        <span asp-validation-for="Input.Password" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+    <div style="text-align: center; margin-top: 15px;">
+        <span>Don't have an account?</span>
+        <a href="/Signup" style="color: #2575fc; font-weight: bold; text-decoration: none;">Sign Up</a>
+    </div>
+
+    <!-- Display error messages if validation fails -->
+    @if (!ViewData.ModelState.IsValid)
+    {
+    <div class="text-danger mt-3">
+        @ViewData.ModelState.Values.SelectMany(v => v.Errors).FirstOrDefault()?.ErrorMessage
+    </div>
+    }
+
+    <!-- Display success message if signup was successful -->
+    @if (TempData["SuccessMessage"] != null)
+    {
+    <div class="alert alert-success mt-3">
+        @TempData["SuccessMessage"]
+    </div>
+    }
+</form>
+
+@section Scripts {
+@{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}

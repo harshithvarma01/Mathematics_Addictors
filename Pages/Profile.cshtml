@@ -1,0 +1,94 @@
+﻿@page
+@model Trail2.Pages.ProfileModel
+@{
+ViewData["Title"] = "Profile";
+}
+
+<div class="profile-container">
+    <h2>___MA___</h2>
+
+    <div class="profile-card">
+        <!-- Profile Image -->
+        <img src="@Model.UserImage" alt="Profile Image" class="profile-img" />
+
+        <h2>@Model.UserName</h2>
+        <p>Email: @Model.Email</p>
+        <p>Other Details: @Model.OtherDetails</p>
+
+        <button id="editProfileButton">Edit Profile</button>
+    </div>
+
+    <!-- Edit Profile Modal -->
+    <div id="editProfileModal" class="modal" style="display:none;">
+        <div class="modal-content">
+            <span class="close-button" id="closeModal">&times;</span>
+            <h2>Edit Profile</h2>
+            <form method="post" enctype="multipart/form-data" onsubmit="return validateForm()">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="UserName" value="@Model.UserName" required />
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="Email" value="@Model.Email" required />
+
+                <label for="otherDetails">Other Details:</label>
+                <textarea id="otherDetails" name="OtherDetails" required>@Model.OtherDetails</textarea>
+
+                <!-- File Input for Profile Image URL -->
+                <label for="profileImageUrl">Profile Image URL:</label>
+                <input type="url" id="profileImageUrl" name="ProfileImageUrl" value="@Model.UserImage" required />
+
+                <button type="submit">Save Changes</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+<script>
+    // Modal functionality
+    const modal = document.getElementById("editProfileModal");
+    const editButton = document.getElementById("editProfileButton");
+    const closeButton = document.getElementById("closeModal");
+
+    editButton.onclick = function () {
+        modal.style.display = "block";
+    };
+
+    closeButton.onclick = function () {
+        modal.style.display = "none";
+    };
+
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    };
+
+    // Validate form before submission
+    function validateForm() {
+        const name = document.getElementById("name").value.trim();
+        const email = document.getElementById("email").value.trim();
+        const otherDetails = document.getElementById("otherDetails").value.trim();
+
+        if (name === "" || email === "" || otherDetails === "") {
+            alert("All fields are required!");
+            return false;
+        }
+
+        const emailPattern = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(ProfileModel.EmailPattern));
+        const regex = new RegExp(emailPattern);
+        if (!regex.test(email)) {
+            alert("Please enter a valid email address.");
+            return false;
+        }
+
+        return true;
+    }
+
+    // Close modal after form submission
+    const form = document.querySelector("#editProfileModal form");
+    form.onsubmit = function () {
+        modal.style.display = "none"; // Hide modal on form submission
+    };
+</script>
+}

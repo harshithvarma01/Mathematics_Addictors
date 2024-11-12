@@ -1,0 +1,62 @@
+﻿@page
+@model Trail2.Pages.DashboardModel
+@{
+ViewData["Title"] = "Dashboard";
+}
+
+<!-- Animated Background Layer -->
+<div class="dashboard-background"></div>
+
+<!-- Navigation Bar -->
+<nav class="navbar">
+    <h1>Dashboard</h1>
+    <div class="navbar-links">
+        <a asp-page="/Dashboard">Home</a>
+        <a asp-page="/Profile">Profile</a>
+        <a asp-page="/Index">Logout</a>
+    </div>
+</nav>
+
+<!-- Main Content Section -->
+<div class="dashboard-content">
+    <div class="scrolling-container">
+        @for (int i = 0; i < Model.UserImages.Length; i++)
+        {
+        <div class="scroll-box">
+            <a asp-page="/Users/User@(i + 1)" class="box-link"> <!-- Updated link to user pages -->
+                <img src="@Model.UserImages[i]" alt="User @(i + 1)" class="box-img" />
+                <p></p> <!-- Empty paragraph for JavaScript to fill -->
+            </a>
+        </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+<script>
+    const userNames = [
+        'Probability',
+        'Statistics',
+        'Integration',
+        'Differentiation',
+        'Matrices',
+        'Calculus',
+        'Sets',
+        'Relations',
+        'Complex Numbers',
+        'Trigonometry',
+        'Inverse Trigonometry',
+        'Number Theory',
+        'Linear Algebra',
+    ];
+
+    const setUserNames = () => {
+        const elements = document.querySelectorAll('.scroll-box p');
+        elements.forEach((el, index) => {
+            el.textContent = userNames[index] || 'User ' + (index + 1); // Fallback for additional boxes
+        });
+    };
+
+    setUserNames();
+</script>
+}

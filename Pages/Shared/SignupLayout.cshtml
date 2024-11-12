@@ -1,0 +1,76 @@
+﻿@{
+Layout = null; // No layout or navigation for the signup page
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <style>
+        body {
+            background-image: url('https://cdn.wallpapersafari.com/48/71/DJbO57.jpg'); /* Background image path */
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+        .signup-container {
+            background: rgba(255, 255, 255, 0.1); /* Transparent white for glass effect */
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+            width: 300px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #ffffff;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+        }
+        .form-control {
+            margin-bottom: 15px;
+            background: rgba(255, 255, 255, 0.2);
+            border: none;
+            color: #ffffff;
+        }
+        .form-control::placeholder {
+            color: #d1d1d1;
+        }
+        button {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.1);
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            font-weight: bold;
+            backdrop-filter: blur(5px);
+            padding: 10px;
+            border-radius: 8px;
+            transition: background 0.3s ease, color 0.3s ease;
+        }
+        button:hover {
+            background: rgba(255, 255, 255, 0.3);
+            color: #2575fc;
+        }
+    </style>
+</head>
+<body>
+<div class="signup-container">
+    @RenderBody()
+</div>
+
+<!-- Scripts Section -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script> <!-- jQuery is optional, but useful for some Bootstrap components -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> <!-- Bootstrap JS without Popper.js -->
+
+@RenderSection("Scripts", required: false)
+</body>
+</html>

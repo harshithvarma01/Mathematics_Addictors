@@ -1,0 +1,322 @@
+/* Reset padding and margin for html and body */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden; /* Prevent scrolling on body */
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  position: relative;
+}
+
+/* Navbar Styling */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white; /* Background color */
+  color: black; /* Text color */
+  padding: 15px;
+  overflow: hidden;
+  border: 2px solid #258cfb; /* Border color and thickness */
+  border-radius: 10px; /* Curved borders */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+}
+
+.navbar h1 {
+  font-size: 1.5rem;
+}
+
+.navbar-links a {
+  color: black; /* Link color */
+  margin: 0 10px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.navbar-links a:hover {
+  color: #258cfb; /* Hover color */
+  text-decoration: underline;
+}
+
+/* Main Dashboard Content and Boxes */
+.dashboard-content {
+  padding: 20px;
+}
+
+/* Update scrolling container to use grid layout and allow vertical scrolling */
+.scrolling-container {
+  display: grid; /* Change to grid layout */
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 20px; /* Space between boxes */
+  max-height: 80vh; /* Set max height for scrolling */
+  overflow-y: auto; /* Allow vertical scrolling */
+}
+
+/* Box Styling */
+.scroll-box {
+  background: rgba(255, 255, 255, 0.7);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 10px; /* Curved borders for boxes */
+  height: 300px; /* Set height for boxes */
+  text-align: center;
+  transition: transform 0.2s; /* Smooth transition for transformations */
+  backdrop-filter: blur(10px); /* Glassmorphism effect */
+  display: flex; /* Use flexbox for layout */
+  flex-direction: column; /* Stack image and text vertically */
+}
+
+/* Image styling */
+.scroll-box img {
+  width: 100%; /* Image takes full width */
+  height: 85%; /* Set height to 85% of the box */
+  object-fit: cover; /* Maintain aspect ratio */
+  border-radius: 10px 10px 0 0; /* Curved top edges */
+}
+
+/* Text styling */
+.box-link {
+  color: #333;
+  text-decoration: none;
+  flex-grow: 1; /* Allow the text area to grow */
+}
+
+.box-link p {
+  padding: 10px;
+  font-weight: bold;
+  height: 15%; /* Set height to 15% of the box */
+  margin: 0; /* Remove default margin */
+  display: flex;
+  align-items: center; /* Center text vertically */
+  justify-content: center; /* Center text horizontally */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 600px) {
+  .scroll-box {
+    height: 220px; /* Adjusted height for smaller screens */
+  }
+  .scroll-box img {
+    height: 85%; /* Keep height proportionate on smaller screens */
+  }
+  .box-link p {
+    height: 15%; /* Keep height proportionate on smaller screens */
+  }
+}
+
+/* Fullscreen Animated Background */
+.dashboard-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background: linear-gradient(120deg, #0000FF, #FF0000);
+  background-size: 200% 200%;
+  animation: gradientShift 10s ease infinite;
+}
+
+@keyframes gradientShift {
+  0% { background: linear-gradient(120deg, #0000FF, #FF0000); }
+  25% { background: linear-gradient(120deg, #4a90e2, #ff758c); }
+  50% { background: linear-gradient(120deg, #FF0000, #0000FF); }
+  75% { background: linear-gradient(120deg, #ff758c, #4a90e2); }
+  100% { background: linear-gradient(120deg, #0000FF, #FF0000); }
+}
+.profile-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.profile-card {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  margin: auto;
+  max-width: 400px;
+}
+
+.profile-img {
+  width: 100px; /* Adjust size as needed */
+  height: 100px; /* Adjust size as needed */
+  border-radius: 50%; /* Circular image */
+}
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+.close-button {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close-button:hover,
+.close-button:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+body {
+  background: linear-gradient(to right, #a18cd1, #fbc2eb); /* Background gradient */
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.profile-container {
+  width: 100%; /* Full width */
+  height: 100vh; /* Full height of the viewport */
+  padding: 40px; /* Adjust padding as needed */
+  background: rgba(255, 255, 255, 0.2); /* Glassmorphism effect */
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column; /* Stack child elements vertically */
+  align-items: center; /* Center align items */
+  justify-content: center; /* Center the content vertically */
+  overflow: hidden; /* Prevent scrolling */
+}
+
+.profile-card {
+  background: rgba(255, 255, 255, 0.8); /* Card background */
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  width: 100%; /* Make card full width */
+  max-width: 600px; /* Optional: limit card width */
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover; /* Keeps aspect ratio of the image */
+  border: 3px solid #fff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  background-color: #a18cd1; /* Button color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #fbc2eb; /* Button hover effect */
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5); /* Modal background */
+}
+
+.modal-content {
+  background: rgba(255, 255, 255, 0.9); /* Modal content */
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 400px;
+  border-radius: 10px;
+}
+
+.close-button {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close-button:hover,
+.close-button:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+html, body {
+  height: 100%; /* Ensure the body takes the full height of the viewport */
+  margin: 0; /* Remove default margin */
+}
+
+h1, h2 {
+  text-align: center; /* Center align the heading */
+  margin: 0; /* Remove default margin */
+}
+
+body {
+  overflow-y: auto; /* Enable vertical scrolling for the entire body */
+}
+
+.question-box {
+  display: flex; /* Use flexbox to arrange number and text */
+  align-items: center; /* Center vertically */
+  width: 100%; /* Fill the entire width of the page */
+  min-height: 60px; /* Minimum height for each question box */
+  padding: 15px; /* Padding inside the box */
+  border: 1px solid #ddd; /* Border around the box */
+  border-radius: 8px; /* Rounded corners */
+  background: linear-gradient(135deg, #e0f7fa, #80deea); /* Gradient background color */
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+  font-size: 16px; /* Font size for question text */
+  font-family: Arial, sans-serif; /* Font family */
+  margin: 10px 0; /* Margin between question boxes */
+  text-decoration: none; /* Remove underline from links */
+  color: black; /* Text color */
+}
+
+
+.question-number {
+  font-weight: bold; /* Bold for question number */
+  margin-right: 10px; /* Space between number and question text */
+}
+
+.question-text {
+  text-align: left; /* Align text to the left */
+  margin: 0; /* Remove default margin for the text */
+  flex-grow: 1; /* Allow text to take remaining space */
+}
